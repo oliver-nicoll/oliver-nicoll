@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicoll Oliver</h1>
 <h3 align="center">A passionate developer from NE Pa - I love learning new things or being shown a new way to do code.</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **JS**
 
 - 👯 I’m looking to collaborate on **open-source and group projects**
 
